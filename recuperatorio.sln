@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35931.197 d17.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "recuperatorio", "recuperatorio\recuperatorio.csproj", "{08411561-7441-42C0-8225-09763A9A91DD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "consola", "consola\consola.csproj", "{BA024DA9-E2C5-4901-B0C7-00600E16D59C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{08411561-7441-42C0-8225-09763A9A91DD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{08411561-7441-42C0-8225-09763A9A91DD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{08411561-7441-42C0-8225-09763A9A91DD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{08411561-7441-42C0-8225-09763A9A91DD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BA024DA9-E2C5-4901-B0C7-00600E16D59C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BA024DA9-E2C5-4901-B0C7-00600E16D59C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BA024DA9-E2C5-4901-B0C7-00600E16D59C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BA024DA9-E2C5-4901-B0C7-00600E16D59C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A3803406-E86F-485A-BF0E-D748CB0EF9A1}
+	EndGlobalSection
+EndGlobal

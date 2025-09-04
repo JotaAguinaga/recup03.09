@@ -1,0 +1,10 @@
+C:\Users\cuent\OneDrive\Escritorio\Escuela ICES\2025\Programacion I\C#\recuperatorio\consola\bin\Debug\consola.exe.config
+C:\Users\cuent\OneDrive\Escritorio\Escuela ICES\2025\Programacion I\C#\recuperatorio\consola\bin\Debug\consola.exe
+C:\Users\cuent\OneDrive\Escritorio\Escuela ICES\2025\Programacion I\C#\recuperatorio\consola\bin\Debug\consola.pdb
+C:\Users\cuent\OneDrive\Escritorio\Escuela ICES\2025\Programacion I\C#\recuperatorio\consola\bin\Debug\recuperatorio.dll
+C:\Users\cuent\OneDrive\Escritorio\Escuela ICES\2025\Programacion I\C#\recuperatorio\consola\bin\Debug\recuperatorio.pdb
+C:\Users\cuent\OneDrive\Escritorio\Escuela ICES\2025\Programacion I\C#\recuperatorio\consola\obj\Debug\consola.csproj.AssemblyReference.cache
+C:\Users\cuent\OneDrive\Escritorio\Escuela ICES\2025\Programacion I\C#\recuperatorio\consola\obj\Debug\consola.csproj.CoreCompileInputs.cache
+C:\Users\cuent\OneDrive\Escritorio\Escuela ICES\2025\Programacion I\C#\recuperatorio\consola\obj\Debug\consola.csproj.Up2Date
+C:\Users\cuent\OneDrive\Escritorio\Escuela ICES\2025\Programacion I\C#\recuperatorio\consola\obj\Debug\consola.exe
+C:\Users\cuent\OneDrive\Escritorio\Escuela ICES\2025\Programacion I\C#\recuperatorio\consola\obj\Debug\consola.pdb

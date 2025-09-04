@@ -1,0 +1,12 @@
+C:\Users\cuent\OneDrive\Escritorio\Escuela ICES\2025\Programacion I\C#\recuperatorio\recuperatorio\bin\Debug\recuperatorio.dll
+C:\Users\cuent\OneDrive\Escritorio\Escuela ICES\2025\Programacion I\C#\recuperatorio\recuperatorio\bin\Debug\recuperatorio.pdb
+C:\Users\cuent\OneDrive\Escritorio\Escuela ICES\2025\Programacion I\C#\recuperatorio\recuperatorio\obj\Debug\recuperatorio.csproj.AssemblyReference.cache
+C:\Users\cuent\OneDrive\Escritorio\Escuela ICES\2025\Programacion I\C#\recuperatorio\recuperatorio\obj\Debug\recuperatorio.csproj.CoreCompileInputs.cache
+C:\Users\cuent\OneDrive\Escritorio\Escuela ICES\2025\Programacion I\C#\recuperatorio\recuperatorio\obj\Debug\recuperatorio.dll
+C:\Users\cuent\OneDrive\Escritorio\Escuela ICES\2025\Programacion I\C#\recuperatorio\recuperatorio\obj\Debug\recuperatorio.pdb
+C:\Users\joaqu\OneDrive\Escritorio\recuperatorio-main\recuperatorio-main\recuperatorio\bin\Debug\recuperatorio.dll
+C:\Users\joaqu\OneDrive\Escritorio\recuperatorio-main\recuperatorio-main\recuperatorio\bin\Debug\recuperatorio.pdb
+C:\Users\joaqu\OneDrive\Escritorio\recuperatorio-main\recuperatorio-main\recuperatorio\obj\Debug\recuperatorio.csproj.AssemblyReference.cache
+C:\Users\joaqu\OneDrive\Escritorio\recuperatorio-main\recuperatorio-main\recuperatorio\obj\Debug\recuperatorio.csproj.CoreCompileInputs.cache
+C:\Users\joaqu\OneDrive\Escritorio\recuperatorio-main\recuperatorio-main\recuperatorio\obj\Debug\recuperatorio.dll
+C:\Users\joaqu\OneDrive\Escritorio\recuperatorio-main\recuperatorio-main\recuperatorio\obj\Debug\recuperatorio.pdb
